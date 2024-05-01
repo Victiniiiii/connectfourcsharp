@@ -1,1 +1,1 @@
-# connectfourcsharp
+# Connect Four in C#
